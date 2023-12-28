@@ -26,8 +26,6 @@ Add images and other contents using CSS record a screenshot of it.
 
 
 ## Code:
-
-## HTML:
 ```
 <style>
     body{
