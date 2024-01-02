@@ -115,6 +115,6 @@ footer{
 ## output:
 ![image](https://github.com/Srivatsan0405/Ex-06-Book-Cover-Design/assets/139841630/b95ae48a-014e-43a5-847a-1664b4d36bfa)
 
-#Result:
+# Result:
 
 Successfully designed a website to display the cover page of the book "Responsive Web Design with HTML5 and CSS".
